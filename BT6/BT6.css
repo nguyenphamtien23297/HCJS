@@ -1,0 +1,21 @@
+h2{
+    border: double orange;
+    color: orange;
+    text-align: center;
+}
+.doan1{
+    text-align: left;
+}
+.doan2{
+    text-align: right;
+}
+.BTH{
+    background-color: orangered;
+    color: white;
+    font-size: 20px;
+    text-align: right;
+}
+.bg_font{
+    background-color: goldenrod;
+    font-style: italic;
+}
