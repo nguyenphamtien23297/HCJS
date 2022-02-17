@@ -1,0 +1,14 @@
+body{
+    background-image: url(./5.jpg);
+    background-repeat: repeat;
+    color: #088;
+}
+h1{
+    text-align: center;
+}
+.doan1{
+    background-color: #339999;
+    color: #ffff;
+    font-weight: bold;
+    font-style: italic;
+}

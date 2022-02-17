@@ -1,14 +1,9 @@
-body{
-    background-image: url(./5.jpg);
-    background-repeat: repeat;
-    color: #088;
-}
 h1{
+    color: green;
     text-align: center;
 }
-.doan1{
-    background-color: #339999;
-    color: #ffff;
-    font-weight: bold;
-    font-style: italic;
+.ct{
+    color: #0000cc;
+    background-color: #cccccc;
+    text-align: center;
 }
