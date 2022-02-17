@@ -1,0 +1,27 @@
+.bai2{
+    text-align: center;
+    color:#006600 ;
+}
+h2{
+    color: #00f;
+}
+.tuade{
+    background-color:#FECFFD ;
+    color: #f39;
+    text-align: center;
+    font-weight: bold;
+}
+.baitho{
+    background-color:#FFFFCC;
+    text-align: center;
+    font-style: italic;
+}
+.doan1{
+    color: #00f;
+}
+.doan2{
+    color: green;
+}
+.doan3{
+    color: yellow;
+}
