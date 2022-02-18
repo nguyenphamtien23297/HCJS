@@ -1,0 +1,25 @@
+body{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 12px;
+}
+
+table{
+    border-color: #CC0033;
+    border-collapse: collapse;
+}
+caption{
+    font-size: 25px;
+    font-weight: bold;
+    color: #CC0033;
+}
+.tieude{
+    text-align: center;
+    color: white;
+    background-color: #CC0033;
+}
+.hocky{
+    text-align: center;
+}
+.diem{
+    text-align: center;
+}
